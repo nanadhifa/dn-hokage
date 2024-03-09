@@ -1,0 +1,25 @@
+{
+  "name": "dn-hokage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanadhifa/dn-hokage.git"
+  },
+  "author": "nanadhifa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanadhifa/dn-hokage/issues"
+  },
+  "homepage": "https://github.com/nanadhifa/dn-hokage#readme",
+  "dependencies": {
+    "asbakuntul": "^1.0.0",
+    "excavato": "^1.0.0",
+    "excaviar": "^1.0.0",
+    "pengikut-sesat": "^1.0.0"
+  }
+}
